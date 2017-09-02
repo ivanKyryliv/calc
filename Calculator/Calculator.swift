@@ -12,6 +12,7 @@ func factorial(op1: Double) -> Double {
     if (op1 <= 1) {
         return 1
     }
+    print("factorial")
     return op1 * factorial(op1: op1 - 1.0)
 }
 
