@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C0DA4201E8F018200A6BDE6 /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C0DA41F1E8F018100A6BDE6 /* Calculator.swift */; };
+		2C6929481F6C45D000E0585F /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6929471F6C45D000E0585F /* Color.swift */; };
 		2C6DF9401F43637000F1C4B4 /* UIButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6DF93F1F43637000F1C4B4 /* UIButtonExtension.swift */; };
 		2C6DF9431F436D7400F1C4B4 /* NumberFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6DF9421F436D7400F1C4B4 /* NumberFormatter.swift */; };
 		2C7F3A9A1E8E70B400BE941B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7F3A991E8E70B400BE941B /* AppDelegate.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		2C0DA41F1E8F018100A6BDE6 /* Calculator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
+		2C6929471F6C45D000E0585F /* Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		2C6DF93F1F43637000F1C4B4 /* UIButtonExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIButtonExtension.swift; sourceTree = "<group>"; };
 		2C6DF9421F436D7400F1C4B4 /* NumberFormatter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberFormatter.swift; sourceTree = "<group>"; };
 		2C7F3A961E8E70B400BE941B /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -81,6 +83,7 @@
 			children = (
 				2C6DF93F1F43637000F1C4B4 /* UIButtonExtension.swift */,
 				2C6DF9421F436D7400F1C4B4 /* NumberFormatter.swift */,
+				2C6929471F6C45D000E0585F /* Color.swift */,
 			);
 			name = Helpers;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				2C7F3A9C1E8E70B400BE941B /* ViewController.swift in Sources */,
 				2C7F3A9A1E8E70B400BE941B /* AppDelegate.swift in Sources */,
 				2C6DF9431F436D7400F1C4B4 /* NumberFormatter.swift in Sources */,
+				2C6929481F6C45D000E0585F /* Color.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
