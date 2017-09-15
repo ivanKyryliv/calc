@@ -14,7 +14,11 @@ func factorial(op1: Double) -> Double {
     }
     print("factorial !!!")
     print("comit5    committtt")
+    print("comit ivan")
     return op1 * factorial(op1: op1 - 1.0)
+    
+    
+    
 }
 
 struct Calculator {
